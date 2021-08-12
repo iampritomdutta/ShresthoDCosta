@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShresthoDCosta
 - 👀 I’m interested in Web Development, Web Servers
-- 🌱 I’m currently learning dJango, postgreSQL, NGINX
-- 💞️ I’m looking to collaborate on NOTHING :D
+- 🌱 I’m currently learning SO MANY THINGS
+<!-- - 💞️ I’m looking to collaborate on NOTHING :D -->
 - 📫 Reach me at coffee@shrestho.me
 - ⏰ Profile is getting ready, so, wait.
 <!---
